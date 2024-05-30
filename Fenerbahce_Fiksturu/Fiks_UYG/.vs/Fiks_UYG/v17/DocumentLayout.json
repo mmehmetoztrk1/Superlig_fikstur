@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yigid\\OneDrive\\Masa\u00FCst\u00FC\\Fenerbahce_Fiksturu\\Fiks_UYG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019BF146-D7D2-4898-BE59-1B573BA24C0F}|Fiks_UYG\\Fiks_UYG.csproj|c:\\users\\yigid\\onedrive\\masa\u00FCst\u00FC\\fenerbahce_fiksturu\\fiks_uyg\\fiks_uyg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019BF146-D7D2-4898-BE59-1B573BA24C0F}|Fiks_UYG\\Fiks_UYG.csproj|solutionrelative:fiks_uyg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yigid\\OneDrive\\Masa\u00FCst\u00FC\\Fenerbahce_Fiksturu\\Fiks_UYG\\Fiks_UYG\\Program.cs",
+              "RelativeDocumentMoniker": "Fiks_UYG\\Program.cs",
+              "ToolTip": "C:\\Users\\Yigid\\OneDrive\\Masa\u00FCst\u00FC\\Fenerbahce_Fiksturu\\Fiks_UYG\\Fiks_UYG\\Program.cs",
+              "RelativeToolTip": "Fiks_UYG\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:55:20.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

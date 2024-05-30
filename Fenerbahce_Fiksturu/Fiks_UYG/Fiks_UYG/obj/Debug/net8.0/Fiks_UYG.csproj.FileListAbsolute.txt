@@ -1,0 +1,14 @@
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\bin\Debug\net8.0\Fiks_UYG.exe
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\bin\Debug\net8.0\Fiks_UYG.deps.json
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\bin\Debug\net8.0\Fiks_UYG.runtimeconfig.json
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\bin\Debug\net8.0\Fiks_UYG.dll
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\bin\Debug\net8.0\Fiks_UYG.pdb
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\obj\Debug\net8.0\Fiks_UYG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\obj\Debug\net8.0\Fiks_UYG.AssemblyInfoInputs.cache
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\obj\Debug\net8.0\Fiks_UYG.AssemblyInfo.cs
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\obj\Debug\net8.0\Fiks_UYG.csproj.CoreCompileInputs.cache
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\obj\Debug\net8.0\Fiks_UYG.dll
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\obj\Debug\net8.0\refint\Fiks_UYG.dll
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\obj\Debug\net8.0\Fiks_UYG.pdb
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\obj\Debug\net8.0\Fiks_UYG.genruntimeconfig.cache
+C:\Users\Yigid\OneDrive\Masaüstü\Fenerbahce_Fiksturu\Fiks_UYG\Fiks_UYG\obj\Debug\net8.0\ref\Fiks_UYG.dll
